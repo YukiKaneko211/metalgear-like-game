@@ -1,6 +1,6 @@
 # Metalgear like Game
 
-Video game inspired by the stealth & shooting TPS game like Metalgear seriese, mede by Unreal Engine 5. 
+Video game inspired by the stealth & shooting TPS game like Metalgear seriese, made by Unreal Engine 5. 
 
 Since the project size is too big to upload here, the whole project is stored here: https://illuminatekmkz-my.sharepoint.com/:f:/g/personal/yuki_k_illuminatekmkz_onmicrosoft_com/IgBQviCnNU40RKW_F1N98swdARQVKsY23wNe1eihvlseLwo?e=4YFx5U
 
